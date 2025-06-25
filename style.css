@@ -116,5 +116,9 @@ body {
       flex-direction: column;
       gap: 20px;
     }
+
+    .testimonial {
+      width: 100%;
+    }
   }
   
