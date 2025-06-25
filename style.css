@@ -117,8 +117,9 @@ body {
       gap: 20px;
     }
 
-    .testimonial {
-      width: 100%;
+    .testimonials {
+      flex-direction: column;
+      gap: 10px;
     }
   }
   
