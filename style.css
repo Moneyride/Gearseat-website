@@ -82,6 +82,33 @@ body {
     margin-top: 12px;
   }
 
+  .footer {
+    background-color: #141414;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px 10px;
+    margin-top: 40px;
+}
+
+  .footer p {
+    margin: 0;
+    font-size: 1.2em;
+}
+
+
+  .social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 10px;
+}
+
+.social-icon {
+    width: 60px;
+    height: 65px;
+    transition: transform 0.3s ease;
+}
+
 
   /* Contact sectie */
 .contact h2 {
